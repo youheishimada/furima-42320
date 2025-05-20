@@ -33,3 +33,11 @@
 
 # Ignore master key for decrypting credentials and more.
 /config/master.key
+
+# Ignore Zone.Identifier files
+# app/assets/images/*.svg:Zone.Identifier
+# app/assets/images/*.gif:Zone.Identifier
+# app/assets/images/*.png:Zone.Identifier
+
+# それ以外の無視したいアイテム
+
